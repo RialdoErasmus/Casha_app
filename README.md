@@ -1,16 +1,3 @@
 # casha_project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ I just wanted to put some extra clarification in this ReadMe file to explain something about my code. I wrote out a series of steps on how I can solve the problem and I then tried to put those steps I wrote down directly into code. After that I would usually go and see how I can make the code shorter but I decided to leave it as it is so you can see my thought process on how I can solve the problem. I know there are many other methods of solving the problem I just thought this might be best so you can see how my logical thinking/reasoning works. 
